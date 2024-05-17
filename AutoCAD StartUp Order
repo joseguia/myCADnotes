@@ -12,9 +12,9 @@ In summary, here is the AutoCAD startup sequence:
   
   B. acad*.* files loaded:
     1. Files listed in acad.rx
-    2. acad2009.lsp
+    2. acad<version>.lsp
     3. acad.lsp
-    4. acad2009doc.lsp
+    4. acad<version>doc.lsp
     5. acaddoc.lsp
     6. acad.dvb
   
