@@ -65,3 +65,4 @@ If a LISP function called (S::STARTUP) has been defined, it will be called next.
 
 If there are multiple (S::STARTUP) functions defined in various places, which one wins? Whichever one loaded last. That’s why the load order can be important, but it’s also why you should never have an unconditional (defun S::STARTUP …) definition in your LISP code. Instead, you should append your startup code to any existing (S::STARTUP) function. That way, your startup can cooperate with any others in your environment rather than walking all over it. If there is some interest in that subject, I can cover it in more detail in a future post.
 
+
