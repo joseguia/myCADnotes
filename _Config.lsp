@@ -1,3 +1,4 @@
+;;Good sample of important sys variables in cad
 
 (defun c:1()
   ; Set up my personal environment
