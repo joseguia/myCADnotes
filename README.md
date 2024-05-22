@@ -13,7 +13,7 @@ if I forget to give credit for something you wrote, drop me a line or comment, I
 [_Config.lsp](https://github.com/joseguia/myCADnotes/blob/main/_Config.lsp)
 This file (forgot where I absconded it from - if its yours let me know) shares a lot fo the system variables in cad that we may overlook or forget about until something acts wonky. good for a reset kinda routien, although I also include resetting my text and dimstyles as well for a full reset.
 -------------------------------------------------------
-[_CustomShortcuts.lsp]https://github.com/joseguia/myCADnotes/blob/main/_CustomShortcuts.lsp
+[_CustomShortcuts.lsp](https://github.com/joseguia/myCADnotes/blob/main/_CustomShortcuts.lsp)
 This bad boy is from a fellow git user [dtgoitia](https://github.com/dtgoitia/civil-autolisp/commits?author=dtgoitia)
 examples :
 (defun c:iso() (command "_.isolateobjects") ..
