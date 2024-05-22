@@ -6,6 +6,6 @@ kinda like a blog  - saw a few other devs use this to stash links to resources, 
 
 if I forget to give credit for something you wrote, drop me a line or comment, I want to be sure everyone gets proper credit, but also - you might have a newer better version of what Im sharing here, win win =)
 
-[AutoCAD StartUp Order](https://github.com/joseguia/myCADnotes/blob/main/AutoCAD%20StartUp%20Order)
+[AutoCAD StartUp Order](https://github.com/joseguia/myCADnotes/wiki/AutoCAD-Loading-Order-(good-info)))
 
 
