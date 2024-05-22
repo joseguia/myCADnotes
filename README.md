@@ -11,6 +11,16 @@ if I forget to give credit for something you wrote, drop me a line or comment, I
 
 ### [_Config.lsp](https://github.com/joseguia/myCADnotes/blob/main/_Config.lsp)
  This file (forgot where I absconded it from - if its yours let me know) shares a lot fo the system variables in cad that we may overlook or forget about until something acts wonky. good for a reset kinda routien, although I also include resetting my text and dimstyles as well for a full reset.
+  ```
+  .. some examples
+  (setvar "DYNMODE" -1)             ; pointer dynamic input mode to -1
+  (setvar "VTDURATION" 0)           ; zoom sin transicion
+  (setvar "VTFPS" 1)                ; minimum speed of a smooth zoom transition, in frames per second
+  (setvar "MBUTTONPAN" 1)           ; supports panning when you hold and drag the button or wheel
+  (setvar "COORDS 2")               ; shows coordinates, and polar ones if possible
+  (setvar "PEDITACCEPT" 1)          ; automatically convert lines and arcs to polylines
+  ..
+```
 
 ### [_CustomShortcuts.lsp](https://github.com/joseguia/myCADnotes/blob/main/_CustomShortcuts.lsp)
  This bad boy is from a fellow git user  [dtgoitia](https://github.com/dtgoitia/civil-autolisp/commits?author=dtgoitia), it has a lot of "poweruser" type routines. if you do any type of programming that "dump" routine is pretty sexy.
