@@ -16,16 +16,16 @@ This file (forgot where I absconded it from - if its yours let me know) shares a
 [_CustomShortcuts.lsp](https://github.com/joseguia/myCADnotes/blob/main/_CustomShortcuts.lsp)
 This bad boy is from a fellow git user [dtgoitia](https://github.com/dtgoitia/civil-autolisp/commits?author=dtgoitia)
 examples :
-(defun c:iso() (command "_.isolateobjects") ..
-(defun c:iso() (command "_.isolateobjects")..
-(defun c:uiso() (command "_.unisolateobjects")..
-(defun c:c ( / ent_name ); Fast copy ..
-(defun c:m ( / ent_name ); Fast move ..
-(defun c:p0() ;;paste blk at 0,0 ..
-(defun c:n() (command "_.NCOPY" ..
-(defun c:t () (command "_.textedit" ..
-(defun c:pp()(command "_.publish" ..
-(defun c:BYR ;Set bylayer recursive ..
-(defun c:c0() ;;copybase blk at 0,0 ..
-(defun c:cl ( Close selected polylines ..
+  (defun c:iso() (command "_.isolateobjects") ..
+  (defun c:iso() (command "_.isolateobjects")..
+  (defun c:uiso() (command "_.unisolateobjects")..
+  (defun c:c ( / ent_name ); Fast copy ..
+  (defun c:m ( / ent_name ); Fast move ..
+  (defun c:p0() ;;paste blk at 0,0 ..
+  (defun c:n() (command "_.NCOPY" ..
+  (defun c:t () (command "_.textedit" ..
+  (defun c:pp()(command "_.publish" ..
+  (defun c:BYR ;Set bylayer recursive ..
+  (defun c:c0() ;;copybase blk at 0,0 ..
+  (defun c:cl ( Close selected polylines ..
 -------------------------------------------------------
