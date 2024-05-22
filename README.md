@@ -6,7 +6,8 @@ kinda like a blog  - saw a few other devs use this to stash links to resources, 
 
 if I forget to give credit for something you wrote, drop me a line or comment, I want to be sure everyone gets proper credit, but also - you might have a newer better version of what Im sharing here, win win =)
 
-" .. On startup, the first things AutoCAD loads are its CUI files. It first loads the Enterprise CUI file, then the Main CUI file, then any partial CUI files attached to the Main, then any partial CUI files attached to the Enterprise. I have no idea of the reasoning behind this slightly strange order, but  .."
-[AutoCAD StartUp Order](https://github.com/joseguia/myCADnotes/wiki/AutoCAD-Loading-Order-(good-info))
 
+
+[AutoCAD StartUp Order](https://github.com/joseguia/myCADnotes/wiki/AutoCAD-Loading-Order-(good-info))
+" .. On startup, the first things AutoCAD loads are its CUI files. It first loads the Enterprise CUI file, then the Main CUI file, then any partial CUI files attached to the Main, then any partial CUI files attached to the Enterprise. I have no idea of the reasoning behind this slightly strange order, but  .."
 
